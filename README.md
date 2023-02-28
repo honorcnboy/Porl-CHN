@@ -6,7 +6,7 @@
 ### 安装
 
 
-cd resources && rm -rf views && wget https://github.com/GloryBoy239/Porl-CHN/releases/download/1.0.0/porl_views_1.0.tar.gz
+cd resources && rm -rf views && wget https://github.com/honorcnboy/Porl-CHN/releases/download/1.0.0/porl_views_1.0.tar.gz
 
 tar zxvf porl_views.tar.gz
 
